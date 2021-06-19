@@ -37,6 +37,7 @@ padding: 4px 30px;
 
 #clients{
     flex-wrap: wrap;
+    margin: -17px;
 }
 #clients img{
     width: 60px;
